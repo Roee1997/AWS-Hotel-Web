@@ -474,6 +474,30 @@ Open source for educational purposes. Feel free to study, modify, and deploy wit
 
 ---
 
+## Screenshots
+
+### Home Page
+![Home Page](screenshots/1-home-page.jpeg)
+*Main landing page featuring hero carousel, room highlights, and hotel overview*
+
+### Rooms Overview
+![Rooms Overview](screenshots/2-rooms-overview.jpeg)
+*Browse available rooms with advanced filtering by dates and guest count*
+
+### Room Details & Booking
+![Room Details](screenshots/3-room-details.jpeg)
+*Detailed room information with pricing, amenities, and seamless booking flow*
+
+### Admin Dashboard - Manage Rooms
+![Admin Manage Rooms](screenshots/4-admin-manage-rooms.jpeg)
+*Comprehensive admin interface for managing all hotel rooms with full CRUD operations*
+
+### Admin Dashboard - Add New Room
+![Admin Add Room](screenshots/5-admin-add-room.jpeg)
+*Admin interface for adding new rooms with image upload to S3 and validation*
+
+---
+
 **Ready to explore serverless hotel booking? Clone, configure, and deploy today!**
 
 **Version**: 1.0.0 | **Status**: Educational Project | **Last Updated**: January 2026
