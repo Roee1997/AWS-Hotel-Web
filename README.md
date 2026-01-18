@@ -20,14 +20,9 @@ A modern, full-stack hotel booking web application built entirely on AWS cloud i
 ![Room Details](screenshots/3-room-details.jpeg)
 
 ### Admin Dashboard - Manage Rooms
-*Manage all hotel rooms with CRUD operations*
+*CRUD operations for managing all hotel rooms*
 
-![Admin Manage Rooms](screenshots/4-admin-manage-rooms.jpeg)
-
-### Admin Dashboard - Add New Room (Modal)
-*Add new rooms modal form*
-
-![Admin Add Room Modal](screenshots/3.5-admin-add-room.jpeg)
+![Admin Manage Rooms](screenshots/4.admin%20crud%20manage%20room%20table.jpeg)
 
 ### Admin Dashboard - Add New Room
 *Add new rooms with image upload and validation*
@@ -37,7 +32,7 @@ A modern, full-stack hotel booking web application built entirely on AWS cloud i
 ### Admin Dashboard - Manage Bookings
 *Admin interface for managing all bookings with approve/deny functionality*
 
-![Admin Manage Bookings](screenshots/6-admin-manage-bookings.jpeg)
+![Admin Manage Bookings](screenshots/6-admin-approve-deny-manage-bookings.jpeg)
 
 ## Table of Contents
 - [Key Features](#key-features)
