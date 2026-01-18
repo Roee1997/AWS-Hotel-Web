@@ -24,6 +24,11 @@ A modern, full-stack hotel booking web application built entirely on AWS cloud i
 
 ![Admin Manage Rooms](screenshots/4-admin-manage-rooms.jpeg)
 
+### Admin Dashboard - Add New Room (Modal)
+*Add new rooms modal form*
+
+![Admin Add Room Modal](screenshots/3.5-admin-add-room.jpeg)
+
 ### Admin Dashboard - Add New Room
 *Add new rooms with image upload and validation*
 
